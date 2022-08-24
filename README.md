@@ -1,2 +1,2 @@
-# ML-MODEL
-ML PROJECT
+# Stroke_prediction
+Stroke prediction machine learning project
